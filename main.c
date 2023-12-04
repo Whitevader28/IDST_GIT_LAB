@@ -1,4 +1,4 @@
-#include <iostrea.h>
+#include <stdio.h>
 
 int main() {
   printf("Wee woo\n");

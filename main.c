@@ -1,6 +1,6 @@
-#include <iostrea.h>
+#include <stdio.h>
 
 int main() {
-	printf("Wee woo\n");
-	return 0;
+  printf("Wee wooo\n");
+  return 0;
 }
